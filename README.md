@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first hands-on project on the Odin Project. It is the first of many to come in my learning journey to become a full stack developer. By the end of this project, I would have learned how to build a basic website using html.
